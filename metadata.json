@@ -1,0 +1,6 @@
+{
+  "name": "Hạt mầm văn chương - Đồng hành viết văn tả cảnh Lớp 5",
+  "description": "Người bạn đồng hành thân thiết hướng dẫn học sinh Lớp 5 viết văn tả cảnh hồ nước, dòng sông, suối, biển sinh động theo chương trình GDPT 2018: lập dàn ý 5 giác quan, mở rộng vốn từ đắt giá, tu từ so sánh - nhân hóa, mở bài gián tiếp, kết bài mở rộng và nhận xét bài làm qua ảnh chụp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
